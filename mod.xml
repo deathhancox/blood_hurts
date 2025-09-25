@@ -1,0 +1,10 @@
+<Mod
+    name="Blood Hurts"
+    description="Testing"
+    tags="gameplay, tweaks, funny"
+    version="1.0.0"
+    path="blood_hurts"
+    requires_noita_version=">=1.0"
+    ui_icon="icon.png"
+    dont_upload_files="icon.xcf|workshop_preview_image.xcf"
+/>
